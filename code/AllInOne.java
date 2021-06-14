@@ -1,5 +1,7 @@
 package code;
 
+/* Exercise 6 */
+
 public class AllInOne {
     public  AllInOne(int a, int b) {
         System.out.println(
