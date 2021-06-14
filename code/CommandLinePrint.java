@@ -1,6 +1,6 @@
 package code;
 
-/* First Exercise */
+/* Exercise 1 */
 
 public class CommandLinePrint {
     public CommandLinePrint() {
