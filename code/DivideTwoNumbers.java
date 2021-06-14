@@ -1,6 +1,6 @@
 package code;
 
-/* Third Exercise */
+/* Exercise 3 */
 
 public class DivideTwoNumbers {
     public DivideTwoNumbers(int a, int b) {
