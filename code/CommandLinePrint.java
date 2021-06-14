@@ -1,3 +1,5 @@
+package code;
+
 public class CommandLinePrint {
     public CommandLinePrint() {
         System.out.println("Hello!");
