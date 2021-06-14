@@ -2,8 +2,8 @@ package code;
 
 /* Exercise 6 */
 
-public class AllInOne {
-    public  AllInOne(int a, int b) {
+public class Exercise6 {
+    public  Exercise6(int a, int b) {
         System.out.println(
                 "+ operation: " + (a + b) + "\n" +
                 "- operation: " + (a - b) + "\n" +

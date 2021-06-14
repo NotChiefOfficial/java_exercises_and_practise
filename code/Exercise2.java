@@ -4,12 +4,12 @@ package code;
 
 import java.util.Scanner;
 
-public class SumOfTwoNumbers {
+public class Exercise2 {
 
     long a, b;
     Scanner scanner;
 
-    public SumOfTwoNumbers() {
+    public Exercise2() {
         System.out.println("\nWelcome to the SUMmer!\n");
         scanner = new Scanner(System.in);
 

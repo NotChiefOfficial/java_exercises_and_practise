@@ -1,23 +1,23 @@
 package code;
 
-/* Exercise 3 */
+/* Exercise Five */
 
 import java.util.Scanner;
 
-public class DivideTwoNumbers {
+public class Exercise5 {
 
     long a, b;
     Scanner scanner;
 
-    public DivideTwoNumbers() {
+    public Exercise5() {
+        System.out.println("\nWelcome to the Multiplier!\n");
         scanner = new Scanner(System.in);
 
         System.out.print("Input First Number: ");
         a = scanner.nextInt();
-
         System.out.println("Input Second Number: ");
         b = scanner.nextInt();
 
-        System.out.println(a/b);
+        System.out.println("Result is " + ( a * b ));
     }
 }
