@@ -1,8 +1,10 @@
 package code;
 
 import java.util.Scanner;
-
 import static java.lang.Float.parseFloat;
+
+// Exercise 12
+// Find average of 3 numbers
 
 public class Exercise12 {
 
