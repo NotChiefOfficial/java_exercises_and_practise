@@ -1,5 +1,8 @@
 package code;
 
+// Exercise 18
+// Multiply two binary numbers
+
 import java.util.Scanner;
 
 public class Exercise18 {
